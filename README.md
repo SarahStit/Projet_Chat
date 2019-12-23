@@ -9,7 +9,7 @@ Créer une application chat qui permet aux utilisateurs de la plateforme d'écha
 
 Composants du projet:
 
-DATA-construction d'une base de donnée relationnelle SQL à deux tables (MySQL),
+DATA-modelisation et administration d'une base de donnée relationnelle SQL à deux tables (MySQL),
     -construction d'une API en Flask pour connecter la BD à l'interface graphique
     
 WEB- construction d'une interface graphique en JS
