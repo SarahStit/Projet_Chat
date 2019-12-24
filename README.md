@@ -1,4 +1,4 @@
-# Group_Projet Chat
+# Projet Chat
 Group Project
 
 Projet Chat construit à quatre personnes (2 developpeurs Web et 2 developpeurs DATA)
